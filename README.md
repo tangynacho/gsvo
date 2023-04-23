@@ -2,7 +2,7 @@
 Adding Voice Over to the original Golden Sun games!
 
 ## Setup
-1) Download the repo and extract all the contents to a new fodler.
+1) Clone or download the repo and extract all the contents to a new folder.
 2) Download a ROM of GS1 or GS2 and save it wherever you want, I recommend in the roms folder in this repo.
 3) In the lua folder, double click the Voice Player.exe file to run the voice player.
 - This will open a command window which will ask if you are playing GS1 or GS2. Type 1 or 2 and press Enter, then you can minimize (do NOT close!) the command prompt.
