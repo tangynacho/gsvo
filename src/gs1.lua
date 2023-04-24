@@ -1,3 +1,5 @@
+os.execute("start VoicePlayer ./gs1")
+
 -- variable to hold previous dialog id
 local prev_id = "none"
 
