@@ -29,6 +29,6 @@ for dir in io.popen([[dir "." /b]]):lines() do
     end
 end
 -- register the gs1 dialog function
-memory.registerexec(0x08092F84, on_dialog)
+memory.registerexec(0x08092C40, on_dialog)
 -- register the exit function
 vba.registerexit(exit)
